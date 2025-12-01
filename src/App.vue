@@ -63,7 +63,7 @@
         duration: 3
     }) */
     viewer.bottomContainer.style.display = 'none';
-    // viewer.cesiumWidget.creditContainer.style.display="none";
+    // viewer.cesiumWidget.creditContainer.style.display="none";// 修改样式
   });
 </script>
 
