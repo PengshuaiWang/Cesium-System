@@ -39,6 +39,7 @@
             subdomains: subdomains,
             layer: "tdtImgLayer",
             style: "default",
+            maximumLevel:18,
             format: "image/jpeg",
             tileMatrixSetID: "GoogleMapsCompatible",//使用谷歌的瓦片切片方式
           
@@ -58,6 +59,7 @@
           duration: 3
       })
     viewer.bottomContainer.style.display = 'none';
+    
     // viewer.cesiumWidget.creditContainer.style.display="none";
   });
 </script>
