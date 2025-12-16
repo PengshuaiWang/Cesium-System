@@ -1,4 +1,4 @@
-# cesium-day1
+# cesium-system
 
 ## Project setup
 ```
